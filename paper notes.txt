@@ -1,0 +1,80 @@
+AT -> asistive technologies -> tecnologia asistivas -> producto que es util para superar o ayudar a una discapacidad o disfuncion
+
+"user-need oriented" --- "task oriented"
+ 	  |			|
+"atiende a necesidades"---"orientado a tareas"
+
+aplicaciones de AT -> medicas, barreras sociales, mejora de calidad de vida, ambientes inteligentes, actividades vida diaria, etc 
+			|--------------------------------------------------------------------------------------------------------|
+		"user-need oriented"
+		  |
+el problema de esto, es que comenza a ser poco innovador.
+     |
+solucion: "task-oriented": propuesto por el articulo, propone dividir el objetivo del AT en diferentes tareas que luego pueden ser usados como componentes"
+		|
+el objetivo de la propuesta es la reutilizacion de componentes en AT's similares ahorrando o agilizando el proceso
+|
+el problema con esto es que no hay trabajos con este tipo de orientacion
+
+
+(lo chido)---------------------------------------------------------------------------------------------------------------------
+Grupos de problemas que resuleven los AT
+
+1. Funciones Mentales-------------------------------|
+2. Movilidad personal-------------------------------|--> Computer
+3. Funciones Sensoriales----------------------------|--> Vision
+4. Actividades de Vida diaria ----------------------|
+5. Protesis
+6. Comunicacion y habilidades de entrenamiento
+7. Recreacion y Deportes
+8. Cuidado de casa y mejoras de ambiente
+
+-----------------------------------------------------(fin xd)-------------------------------------------------------------------
+
+1. FM -> tanto asistentes o smart watch ofrecen este tipo de AT, se ha experimentado con robots para las tareas de:
+	 visual self-localization and maping (SLAM), detection and track objetcs, biometricas, acciones humanas y
+	 reconocimiento de movimiento, estimaciones, reconocimiento de expresiones, proxemics
+      -> analisis de comportamiento humano (behavioral imaging)
+
+
+-----------------------------------(realidad aumentada, first person vision)---------------------------------------------------
+
+	como gran parentesis, como resultado de una o mas tecnicas de FM se puede llegar a la realidad aumentada
+	combinada con first person vision puede llegar a ser como ejmeplo holo lents, google glass y jarvis
+
+	conlleva a lo llamado Personal Big Data
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+2. MP -> para las discapacidades se ofrece la capacidad de optimizacion del movimiento o rehabilitacion efectiva
+	 tiene el potencial de no quedarse ahi sino de resolver problemas humanamente imposibles, como recobrar
+	 movilidad en un organo amputado ofreciendo uno prostetico
+      -> CV se usa para poder tener medidas de objetos y dimensiones
+      -> puede ser usado en estrategias como realidad virtual ofreciendo entornos al paciente para rehabilitarse
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+3. FS -> text recognition y Speech to text, todo lo posible para la gente con sus sentidos alterados o perdidos
+	 localizacion, informacion del ambiente y demas pueden ser utiles para los que no pueden distinguir su
+	 ambiente debido a su discapacidad
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+4. VD -> monitorizacion del usuario o ambiente, generalmente se puede ver en hogares automatizados, buscan mejorar
+	 o facilitar las tareas del usuario, o ser un soporte en su vida
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Tecnicas de CV en ATs:
+
+	visual self localization y mapeo	Biometricas
+	Deteccion y rastreo de objetos		Posicion de la cabeza y estimacion de mirada
+	Reconocimiento de actividad humana	
+
+Problemas con todo xd: para innovar y mejorar el estado de las ATs se debe mejorar aun mas los ATs existentes
+pero esto puede provocar una baja en la accesibilidad de estos productos por lo que su objetivo se pierde
+
+se necesita un buen diseño usabilidad y factores de aaccesibilidad
+
+1 adquisicion de datos como violacion de privacidad
+2 impacto en la sociedad (reducir contacto humano y derivados)

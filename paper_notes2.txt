@@ -1,0 +1,52 @@
+﻿comparacion cuantitativa y cualitativa de rendimiento de las camaras espectrales -> lo que se va a comparar son diferentes sistemas de imagenes o formatos CASSI, SCSI, SSCS y HYCA -> sistemas de compresion
+													|-> el mejor es el SSCSI								|
+IMAGENES ESPECTRALES -> SI -> Spectral Images								|									comprimir datos de imagenes para reducir datos
+|	|										Cada arquitectura se modela como un sistema de ecuaciones				y redundancia
+| informacion espacio-espectral -> adquieren datos -> resplandor y reflactancia		lineales para lograr un mismo enfoque
+|					|										|
+|		acerca de materiales o vegetacion presente en la tierra			optimización transmitancia, código de apertura y número de proyecciones
+|
+|usada en areas como|->ambiente	->agricultura --> monitoreo, seguimiento y control
+|      		    |->geologia
+|	  	    |->caracterizacion del suelo
+|
+|-> cada pixel puede ser representado como un vector v=[v1,v2,...vL] -> dependiendo de espectro del material en escena
+|											  |
+|									se puede medir la similitud de dos espectros -> mirando el espacio L-dimencional de cada uno -> algoritmos de clasificacion
+|
+|-> Teledeteccion espectral -> grandes datos redundantes -> para reducir redundancia (compressive sampling (CS)) -> Criterio de Nysquist -> nesquick ? xdddd
+		|										|				|
+	     demanda-> memoria, ancho de banda, recuperacion de info				|		superado atravez de compresion y muestreo simultaneo
+												|
+									CS adoptado como un protocolo de muestreo de SI
+
+------------------------------------------------------------------------------------------------(Arquitecturas)--------------------------------------------------------------------------------------------------------------------
+
+Coded Aperture Snapshot Spectral (CASSI) -> Instantánea de apertura codificada espectral -> elementos principales -> apertura codificada, elemento dispersivo 
+		|												  -> y el sensor responsable de capturar la energia de la escena codificada
+		|	
+		|-> aberturas codificadas -> arrays matriciales -> elementos opticos translucidos -> bloquea o abre el camino para la luz atravez del sistema
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+					
+*Espectral espacial codificado Sistema de imágenes de compresión hiperespectral (SSCSI) -> esquema de muestreo codificado espacial-espectrar ->  modula las bandas RGB -> mayor aleatoriedad en la muestra
+																			|-> mascara codificada -> codifica cada canal espectral independientemente
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sistema de imágenes espectrales de compresión de capturas coloreadas (SCCSI) -> array de filtros opticos -> codifica fuente de entrada -> un elemento dispersor -> dispersa entradas
+															|			|
+															-------------------------
+																     |
+														integrados con el rango espectral sensitivo en el detector
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Systema de apertura de codigo Hyper-espectral (HYCA) -> arquitectura teorica -> bloques de compresion de pixeles en las bandas espectrales -> acorde a -> ventana de tamaño de comprension -> muestreo simultaneo
+																						|-> comprencion del SI
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ARQUITECUTRAS DE MUESTREO COMPRESIVO 
+
+modelados por -> g = hf, H = matris de muestreo -> depende de cada arquitectura de las 4
